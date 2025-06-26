@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Fabián Barrios Simanca
+# 👋 ¡Hola! Soy Fabián Barrios
 
 
 Formación en Estadística y experiencia en proyectos de análisis de datos. Enfocado en extraer valor de la información para apoyar la toma de decisiones basada en evidencia.
